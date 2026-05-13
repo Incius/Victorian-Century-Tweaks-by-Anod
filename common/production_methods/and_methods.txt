@@ -1,0 +1,24 @@
+
+INJECT:pm_iron_frame_buildings = {
+	country_modifiers = {
+		workforce_scaled = {
+			country_construction_add = -1
+		}
+	}
+}
+
+INJECT:pm_steel_frame_buildings = {
+	country_modifiers = {
+		workforce_scaled = {
+			country_construction_add = -3
+		}
+	}
+}
+
+INJECT:pm_arc_welded_buildings = {
+	country_modifiers = {
+		workforce_scaled = {
+			country_construction_add = -5
+		}
+	}
+}
